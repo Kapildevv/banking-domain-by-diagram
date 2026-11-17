@@ -1,0 +1,18 @@
+gl_code,gl_name,gl_type,parent_gl_code
+100000,Assets,ASSET,
+101001,Cash and balances with RBI,ASSET,100000
+102001,Interbank clearing and settlement,ASSET,100000
+103001,Retail loans,ASSET,100000
+103002,Corporate loans and cash credit,ASSET,100000
+104001,Interest receivable on loans,ASSET,100000
+200000,Liabilities,LIABILITY,
+201001,Savings deposits,LIABILITY,200000
+201002,Current deposits,LIABILITY,200000
+202001,Term deposits,LIABILITY,200000
+203001,Interest accrued on deposits,LIABILITY,200000
+204001,Margin money on guarantees,LIABILITY,200000
+400000,Income,INCOME,
+401001,Interest income on loans,INCOME,400000
+402001,Fee income,INCOME,400000
+500000,Expenses,EXPENSE,
+501001,Interest expense on deposits,EXPENSE,500000

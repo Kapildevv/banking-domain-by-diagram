@@ -1,0 +1,9 @@
+product_id,product_name,product_type,asset_liability,annual_rate_pct,gl_code
+SA_REGULAR,Regular Savings Account,CASA,LIABILITY,3.5,201001
+SA_DIGITAL,Digital Savings Account (Aadhaar OTP),CASA,LIABILITY,3.5,201001
+CA_BUSINESS,Business Current Account,CASA,LIABILITY,0.0,201002
+FD_1Y,Fixed Deposit 1 Year,TERM_DEPOSIT,LIABILITY,7.0,202001
+HL_FLOAT,Home Loan (repo linked),LOAN,ASSET,8.75,103001
+AL_FIXED,Auto Loan,LOAN,ASSET,9.6,103001
+PL_UNSEC,Personal Loan (unsecured),LOAN,ASSET,12.0,103001
+CC_WC,Cash Credit (working capital),CC,ASSET,10.25,103002
